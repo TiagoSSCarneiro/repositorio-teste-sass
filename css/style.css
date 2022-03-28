@@ -1,0 +1,22 @@
+div, main {
+  background: #494747;
+}
+div p, div h2, main p, main h2 {
+  color: lightblue;
+}
+
+main .cor-vermelha {
+  color: red;
+}
+
+li {
+  color: purple;
+}
+
+ol > li {
+  color: blue;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
